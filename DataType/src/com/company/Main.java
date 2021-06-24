@@ -17,12 +17,12 @@ public class Main {
         Byte bit = 127;
         System.out.println(bit);
         int num = 12345;
-        long res = bit+num;
-        System.out.println(res);
+        long res = bit + num;
+         System.out.println(res);
 
         char ch = 'c';
         String str = "C";
-        System.out.println(ch + " " + str);
+
 
     }
 }
