@@ -1,5 +1,7 @@
 package com.company;
 
+import com.company.FoodClass;
+
 public class DrinkClass extends FoodClass {
     public float getFoodRating() {
         return FoodRating;
