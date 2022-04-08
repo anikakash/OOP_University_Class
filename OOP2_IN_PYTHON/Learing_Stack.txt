@@ -1,0 +1,5 @@
+1. Class is a blue print 
+2. Creat a instance(Object) 
+3. Class vs instance
+4. instance attributes: defined in __init__(self)
+5. class attribute
