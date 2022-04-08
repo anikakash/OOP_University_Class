@@ -3,3 +3,7 @@
 3. Class vs instance
 4. instance attributes: defined in __init__(self)
 5. class attribute
+part 2:
+1. Instance method (self)
+2. can take arguments and can return values
+3. sepceial "dunder" method (__str__ ans __eq__)
