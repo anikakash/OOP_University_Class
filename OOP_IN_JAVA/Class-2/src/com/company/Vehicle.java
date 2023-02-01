@@ -10,7 +10,7 @@ public class Vehicle {
     }
 
     public Vehicle(String VehicleCatagory, String ModelName) {
-        this.VehicleCatagory = ModelName;
+        this.VehicleCatagory = VehicleCatagory;
         this.ModelName = ModelName;
     }
     public void pr(){
